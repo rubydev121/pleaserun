@@ -160,4 +160,4 @@ All contributions welcome (bug reports, feature requests, bug fixes, new feature
 
 # Code of Conduct
 
-This project has a code of conduct and uses the [Contributor Covenant](CODE_OF_CONDUCT.md).
+This project has a code of conduct and uses the [Contributor Covenant](CODE_OF_CONDUCT.md). 
